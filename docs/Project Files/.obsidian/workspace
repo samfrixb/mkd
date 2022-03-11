@@ -1,0 +1,102 @@
+{
+  "main": {
+    "id": "7c4bfe9efbe59f2d",
+    "type": "split",
+    "children": [
+      {
+        "id": "4018e3f860618d41",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "Notes/2203/02 Paths/People Projects Things/the final hierarchy with Johnna.md",
+            "mode": "source"
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "58b8db8e033ec482",
+    "type": "split",
+    "children": [
+      {
+        "id": "3952403e805f68fd",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "17406569b739c8af",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "53b02cddeff481f9",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "klinghardt",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 203
+  },
+  "right": {
+    "id": "472621b9a13af8ef",
+    "type": "split",
+    "children": [
+      {
+        "id": "dbd7ee43c06d9cfc",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "5e08a87e280bfa7b",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Notes/2203/02 Paths/People Projects Things/the final hierarchy with Johnna.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "active": "4018e3f860618d41",
+  "lastOpenFiles": [
+    "Notes/2203/02 Paths/People Projects Things/the final hierarchy with Johnna.md",
+    "Notes/2203/03 Bringings/The route to the website.md",
+    "Notes/2203/03 Bringings/Website Overall Structure/wordpress xml import.md",
+    "Notes/2203/03 Bringings/Website Overall Structure/how to get obsidian files.md",
+    "Notes/2203/03 Bringings/Projects/obsidian list.md",
+    "Notes/2203/03 Bringings/Globe Matrix Overall Design/teachings of timothy.md",
+    "Notes/2203/02 Paths/Personal/test.md",
+    "Untitled 1.md",
+    "Notes/2203/04 Notes/220310 klinghardt.md",
+    "Q1 2022/General/0000 Template.md"
+  ]
+}
